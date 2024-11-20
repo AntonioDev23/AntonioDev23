@@ -1,16 +1,22 @@
-## Hi there 👋
+## OLÁ! Sou o Antonio Ricardo 👋
 
-<!--
-**AntonioDev23/AntonioDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho no SEBRAE
+- 🌱 Estudando Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <a href="https://github.com/AntonioDev23" target="_blank">
+    <img align="center" alt="Antonio" height="180" src="https://github-readme-stats.vercel.app/api?username=AntonioDev23&show_icons=true&theme=tokyonight" />
+    <img align="right" alt="Antonio" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioDev23&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+ <br><br>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </div>
+  
+
+
+
