@@ -18,8 +18,8 @@
   </div>
   <br><br>
    <div style="display: inline-block; margin-right: 20px;>
-    <a href="in/antônio-ricardo-7628b52a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-    <a href="antonio_neto.9696" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://linkedin.com/in/antônio-ricardo-7628b52a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    <a href="https://www.instagram.com/antonio_neto.9696/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 
 
