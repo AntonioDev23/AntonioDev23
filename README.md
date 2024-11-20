@@ -1,8 +1,9 @@
-## OLÁ! Sou o Antonio Ricardo 👋
+## OLÁ! Sou o Antonio Ricardo 👨🏽‍💻
 
 
-- 🔭 Atualmente trabalho no SEBRAE
-- 🌱 Estudando Javascript
+- 👨🏽‍💼 Atualmente trabalho no SEBRAE
+- 👨🏼‍🎓 Estudando Javascript
+- 🚀 Futuro Desenvolvedor back-end e front-end
 
 <div style="display: inline-block; margin-right: 20px;><br>
   <a href="https://github.com/AntonioDev23" target="_blank">
