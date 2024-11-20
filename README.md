@@ -27,6 +27,5 @@
   </a>
 </div>
 
-### Snake Eating My Contributions 🐍
-![Snake animation](https://github.com/<seu-username>/<seu-username>/blob/output/snake.svg)
+
 
