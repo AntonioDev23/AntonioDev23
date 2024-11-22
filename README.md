@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/a0a4ddc9-20ba-456f-a3d4-82cecc35f1f7" alt="NODE.JS" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/5c3147ba-4242-4297-a610-91e0aa50d1e9" alt="REACT" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/fe4a6607-074a-461d-a0c5-37c97006c8b8" alt="TS" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/84958afe-a5e7-4490-9cbe-e014ac836373" alt="TS" width="50" height="50"/>
 
 </div>
 
