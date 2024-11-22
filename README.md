@@ -54,14 +54,15 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonioDev23}/count.svg" /></p> 
 <br></div>
 
-  <br><br>  
+  <br>  
 </div>
- <br><br>
+ <br>
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mAntonioDev23/AntonioDev23/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7D402&height=120&section=footer"/>
 
 
