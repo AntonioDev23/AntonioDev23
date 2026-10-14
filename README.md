@@ -59,9 +59,12 @@ Projeto web de receitas criado para praticar estruturação de páginas, estiliz
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 ---
+## 🐍 Minhas contribuições
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições do GitHub" />
+</p>
 ⭐ Obrigado por visitar meu perfil! Estou sempre buscando aprender, praticar e construir projetos melhores.
 
 
