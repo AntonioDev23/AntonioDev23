@@ -22,7 +22,7 @@ Aplicação de loja virtual com frontend, backend e banco de dados, desenvolvida
 - **Tecnologias:** JavaScript, Node.js, Express e PostgreSQL.
 - **Destaques:** API, gerenciamento de produtos, usuários e carrinho de compras.
 
-🔗 [Acessar o projeto](https://github.com/AntonioDev23?tab=repositories)
+🔗 [Acessar o projeto](https://arsn-site.onrender.com/)
 
 ### 🍽️ Mesa Boa — Cardápio e pedidos pelo WhatsApp
 
