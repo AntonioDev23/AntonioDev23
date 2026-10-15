@@ -24,15 +24,24 @@ Aplicação de loja virtual com frontend, backend e banco de dados, desenvolvida
 
 🔗 [Ver meus repositórios](https://github.com/AntonioDev23?tab=repositories)
 
-### 📚 Aprenda e Pratique
-Aplicação web desenvolvida com React, voltada à prática e à evolução das minhas habilidades de desenvolvimento frontend.
+### 🍽️ Mesa Boa — Cardápio e pedidos pelo WhatsApp
 
-🔗 [Acessar aplicação](https://aprendaepratique.netlify.app/)
+Aplicação web com interface moderna para apresentação de cardápio e encaminhamento de pedidos pelo WhatsApp, inspirada nas necessidades de uma marmitaria.
 
-### 🍲 ARSN Receitas Deliciosas
-Projeto web de receitas criado para praticar estruturação de páginas, estilização e desenvolvimento frontend.
+- **Objetivo:** facilitar a visualização dos pratos e o contato dos clientes para realizar pedidos.
+- **Destaques:** interface visual, apresentação do cardápio e fluxo de pedidos integrado ao WhatsApp.
 
 🔗 [Ver meus repositórios](https://github.com/AntonioDev23?tab=repositories)
+
+### 🍲 ARSN Receitas Deliciosas
+
+Projeto de frontend para apresentação de receitas culinárias, desenvolvido para praticar a construção de interfaces web, estilização e navegação entre páginas.
+
+- **Foco:** estruturação de páginas e experiência visual.
+- **Objetivo:** aprimorar minhas habilidades de desenvolvimento frontend.
+- **Status:** projeto em desenvolvimento; ainda sem integração com banco de dados.
+
+🔗 [Acessar o projeto](COLOQUE_AQUI_O_LINK_REAL)
 
 ## 📊 Estatísticas do GitHub
 
@@ -59,11 +68,15 @@ Projeto web de receitas criado para praticar estruturação de páginas, estiliz
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
-## 🐍 Minhas contribuições
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />  Minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições do GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo minhas contribuições do GitHub" src="https://raw.githubusercontent.com/AntonioDev23/AntonioDev23/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 ⭐ Obrigado por visitar meu perfil! Estou sempre buscando aprender, praticar e construir projetos melhores.
 
