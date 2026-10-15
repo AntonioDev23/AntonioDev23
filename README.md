@@ -43,6 +43,9 @@ Projeto de frontend para apresentação de receitas culinárias, desenvolvido pa
 
 🔗 [Acessar o projeto](https://antoniodev23.github.io/Segundo-Projeto-Solo/)
 
+
+🔗 [Ver todos os repositórios no GitHub](https://github.com/AntonioDev23?tab=repositories)
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
