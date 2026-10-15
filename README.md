@@ -31,7 +31,7 @@ Aplicação web com interface moderna para apresentação de cardápio e encamin
 - **Objetivo:** facilitar a visualização dos pratos e o contato dos clientes para realizar pedidos.
 - **Destaques:** interface visual, apresentação do cardápio e fluxo de pedidos integrado ao WhatsApp.
 
-🔗 [Acessar o projeto](https://github.com/AntonioDev23?tab=repositories)
+🔗 [Acessar o projeto](https://github.com/AntonioDev23/Projeto-Workana)
 
 ### 🍲 ARSN Receitas Deliciosas
 
@@ -41,7 +41,7 @@ Projeto de frontend para apresentação de receitas culinárias, desenvolvido pa
 - **Objetivo:** aprimorar minhas habilidades de desenvolvimento frontend.
 - **Status:** projeto em desenvolvimento; ainda sem integração com banco de dados.
 
-🔗 [Acessar o projeto](COLOQUE_AQUI_O_LINK_REAL)
+🔗 [Acessar o projeto](https://antoniodev23.github.io/Segundo-Projeto-Solo/)
 
 ## 📊 Estatísticas do GitHub
 
