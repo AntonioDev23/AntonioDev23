@@ -22,7 +22,7 @@ Aplicação de loja virtual com frontend, backend e banco de dados, desenvolvida
 - **Tecnologias:** JavaScript, Node.js, Express e PostgreSQL.
 - **Destaques:** API, gerenciamento de produtos, usuários e carrinho de compras.
 
-🔗 [Ver meus repositórios](https://github.com/AntonioDev23?tab=repositories)
+🔗 [Acessar o projeto](https://github.com/AntonioDev23?tab=repositories)
 
 ### 🍽️ Mesa Boa — Cardápio e pedidos pelo WhatsApp
 
@@ -31,7 +31,7 @@ Aplicação web com interface moderna para apresentação de cardápio e encamin
 - **Objetivo:** facilitar a visualização dos pratos e o contato dos clientes para realizar pedidos.
 - **Destaques:** interface visual, apresentação do cardápio e fluxo de pedidos integrado ao WhatsApp.
 
-🔗 [Ver meus repositórios](https://github.com/AntonioDev23?tab=repositories)
+🔗 [Acessar o projeto](https://github.com/AntonioDev23?tab=repositories)
 
 ### 🍲 ARSN Receitas Deliciosas
 
